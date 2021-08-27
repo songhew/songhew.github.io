@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a first year PhD student at [Department of Computer Science and Engineering](https://www.eecs.psu.edu/) of [The Pennsylvania State University](https://www.psu.edu/). I am advised by [Prof. Mahanth Gowda](http://www.cse.psu.edu/~mkg31/). My research interets lie in the intersction of machine learning and random fucking.
-
+Hi, I am a first year PhD student at [Department of Computer Science and Engineering](https://www.eecs.psu.edu/) of [The Pennsylvania State University](https://www.psu.edu/). I am advised by [Prof. Mahanth Gowda](http://www.cse.psu.edu/~mkg31/). My research interets lie in the intersection of Machine Learning (ML) and Internet of Things (IoT). My life goal is fuck fenny. 
 
 
 A data-driven personal website
