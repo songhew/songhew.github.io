@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 2"
+title: "Spatial-temporal Analysis of COVID-19's Impact on Human Mobility: the Case of the United States"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/transportation
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
