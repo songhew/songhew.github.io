@@ -1,1 +1,1 @@
-[My CV](https://scholar.google.com/citations?user=KbJERYoAAAAJ&hl=en)
+[My CV](songhe2.github.io/files/My_CV.pdf)
