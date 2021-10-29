@@ -1,1 +1,1 @@
-[My CV](songhe2.github.io/files/My_CV.pdf)
+[My CV](files/My_CV.pdf)
