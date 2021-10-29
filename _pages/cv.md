@@ -1,1 +1,1 @@
-[My CV](files/My_CV.pdf)
+[My CV](My_CV.pdf)
